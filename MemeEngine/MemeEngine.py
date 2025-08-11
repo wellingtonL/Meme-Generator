@@ -1,6 +1,7 @@
 #Creates a library to generate memes.
 import os
 import random
+
 from QuoteEngine import Ingestor
 from QuoteEngine import QuoteModel
 from PIL  import Image, ImageFont, ImageDraw

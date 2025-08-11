@@ -3,7 +3,7 @@ Represents a model with a definite message & its author.
 """
 from QuoteEngine import QuoteModel
 
-class QuoteModel():
+class QuoteModel(object):
     """
     A QuoteModel class object created.
     """

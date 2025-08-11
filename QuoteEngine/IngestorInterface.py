@@ -13,7 +13,7 @@ class IngestorInterface(ABC):
     :allowed_extensions - Collection of file extension
     """
 
-    allowed_extensions = []
+    allowed_extensions = ['csv', 'docx', 'pdf', 'txt']
     """file extensions."""
 
     """IngestorInterface defines two methods with the following class methods"""  
