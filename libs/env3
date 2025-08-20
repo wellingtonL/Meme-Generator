@@ -1,0 +1,3 @@
+SERVER_PATH = 'C:\\Users\\lggoo\\anaconda3\\Udacity\\IntermediatePython3Projects\\MemeGeneratorProject2\\ProjectFiles\\venv\\scripts\activate
+TMP_PATH = '/tmp/',
+STATIC_PATH = '/static/',
